@@ -1,0 +1,6 @@
+[16-May-2014 12:51:34] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/dagna/public_html/wp-content/themes/Avada/framework/plugins/LayerSlider/layerslider.php on line 26
+[17-May-2014 16:26:11] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/dagna/public_html/wp-content/themes/Avada/framework/plugins/LayerSlider/layerslider.php on line 26
+[26-May-2015 21:09:20 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/plugins/LayerSlider/layerslider.php on line 26
+[27-May-2015 16:15:16 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/plugins/LayerSlider/layerslider.php on line 26
+[19-Jun-2015 21:36:19 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/plugins/LayerSlider/layerslider.php on line 26
+[23-Aug-2015 12:35:13 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/plugins/LayerSlider/layerslider.php on line 26

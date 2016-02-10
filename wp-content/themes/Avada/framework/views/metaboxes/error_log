@@ -1,0 +1,20 @@
+[22-May-2014 01:31:08] PHP Fatal error:  Using $this when not in object context in /home/dagna/public_html/wp-content/themes/Avada/framework/views/metaboxes/page_options.php on line 4
+[22-May-2014 04:40:12] PHP Fatal error:  Using $this when not in object context in /home/dagna/public_html/wp-content/themes/Avada/framework/views/metaboxes/post_options.php on line 4
+[22-May-2014 12:40:41] PHP Fatal error:  Using $this when not in object context in /home/dagna/public_html/wp-content/themes/Avada/framework/views/metaboxes/woocommerce_options.php on line 4
+[23-May-2014 15:46:35] PHP Fatal error:  Using $this when not in object context in /home/dagna/public_html/wp-content/themes/Avada/framework/views/metaboxes/portfolio_options.php on line 4
+[23-May-2014 21:06:05] PHP Fatal error:  Using $this when not in object context in /home/dagna/public_html/wp-content/themes/Avada/framework/views/metaboxes/es_options.php on line 2
+[27-May-2015 21:23:04 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/views/metaboxes/page_options.php on line 4
+[27-May-2015 21:23:32 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/views/metaboxes/post_options.php on line 4
+[27-May-2015 21:24:31 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/views/metaboxes/woocommerce_options.php on line 4
+[27-May-2015 22:28:08 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/views/metaboxes/portfolio_options.php on line 4
+[28-May-2015 00:25:25 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/views/metaboxes/es_options.php on line 2
+[10-Jun-2015 22:27:17 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/views/metaboxes/page_options.php on line 4
+[10-Jun-2015 23:43:25 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/views/metaboxes/post_options.php on line 4
+[11-Jun-2015 04:46:11 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/views/metaboxes/woocommerce_options.php on line 4
+[11-Jun-2015 23:42:56 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/views/metaboxes/portfolio_options.php on line 4
+[12-Jun-2015 06:01:57 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/views/metaboxes/es_options.php on line 2
+[23-Aug-2015 12:53:09 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/views/metaboxes/page_options.php on line 4
+[23-Aug-2015 12:53:58 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/views/metaboxes/post_options.php on line 4
+[23-Aug-2015 12:54:39 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/views/metaboxes/woocommerce_options.php on line 4
+[23-Aug-2015 12:56:08 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/views/metaboxes/portfolio_options.php on line 4
+[23-Aug-2015 12:56:59 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/views/metaboxes/es_options.php on line 2

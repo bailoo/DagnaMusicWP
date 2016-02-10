@@ -1,0 +1,4 @@
+[21-May-2014 07:21:57] PHP Fatal error:  Call to undefined function  add_filter() in /home/dagna/public_html/wp-content/themes/Avada/framework/plugins/tf-flexslider/inc/woo-functions.php on line 57
+[27-May-2015 16:12:58 Etc/GMT] PHP Fatal error:  Call to undefined function add_filter() in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/plugins/tf-flexslider/inc/woo-functions.php on line 57
+[09-Jun-2015 08:43:46 Etc/GMT] PHP Fatal error:  Call to undefined function add_filter() in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/plugins/tf-flexslider/inc/woo-functions.php on line 57
+[23-Aug-2015 12:49:02 Etc/GMT] PHP Fatal error:  Call to undefined function add_filter() in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/plugins/tf-flexslider/inc/woo-functions.php on line 57

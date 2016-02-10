@@ -1,0 +1,12 @@
+[17-May-2014 10:06:43] PHP Fatal error:  Call to undefined function  plugins_url() in /home/dagna/public_html/wp-content/themes/Avada/framework/plugins/LayerSlider/config/plugin.defaults.php on line 7
+[17-May-2014 16:16:09] PHP Fatal error:  Call to undefined function  __() in /home/dagna/public_html/wp-content/themes/Avada/framework/plugins/LayerSlider/config/defaults.php on line 14
+[17-May-2014 23:20:43] PHP Fatal error:  Call to undefined function  plugins_url() in /home/dagna/public_html/wp-content/themes/Avada/framework/plugins/LayerSlider/config/plugin.defaults.php on line 7
+[17-May-2014 23:35:54] PHP Fatal error:  Call to undefined function  __() in /home/dagna/public_html/wp-content/themes/Avada/framework/plugins/LayerSlider/config/defaults.php on line 14
+[27-May-2015 03:20:28 Etc/GMT] PHP Fatal error:  Call to undefined function plugins_url() in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/plugins/LayerSlider/config/plugin.defaults.php on line 7
+[27-May-2015 03:21:37 Etc/GMT] PHP Fatal error:  Call to undefined function __() in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/plugins/LayerSlider/config/defaults.php on line 14
+[27-May-2015 21:25:13 Etc/GMT] PHP Fatal error:  Call to undefined function plugins_url() in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/plugins/LayerSlider/config/plugin.defaults.php on line 7
+[27-May-2015 23:21:13 Etc/GMT] PHP Fatal error:  Call to undefined function __() in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/plugins/LayerSlider/config/defaults.php on line 14
+[23-Jun-2015 16:13:54 Etc/GMT] PHP Fatal error:  Call to undefined function plugins_url() in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/plugins/LayerSlider/config/plugin.defaults.php on line 7
+[25-Jun-2015 08:54:53 Etc/GMT] PHP Fatal error:  Call to undefined function __() in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/plugins/LayerSlider/config/defaults.php on line 14
+[23-Aug-2015 12:40:05 Etc/GMT] PHP Fatal error:  Call to undefined function plugins_url() in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/plugins/LayerSlider/config/plugin.defaults.php on line 7
+[23-Aug-2015 12:40:56 Etc/GMT] PHP Fatal error:  Call to undefined function __() in /home/mozartsi/public_html/dagnamusic.com/wp-content/themes/Avada/framework/plugins/LayerSlider/config/defaults.php on line 14
