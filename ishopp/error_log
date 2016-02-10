@@ -1,5 +1,0 @@
-[04-Feb-2016 12:14:44 UTC] PHP Fatal error:  Call to a member function get_meta_query() on a non-object in /home/dagnafap/public_html/ishopp/wp-content/themes/iShoppThemeRes/index.php on line 59
-[04-Feb-2016 12:15:56 UTC] PHP Fatal error:  Call to a member function get_meta_query() on a non-object in /home/dagnafap/public_html/ishopp/wp-content/themes/iShoppThemeRes/index.php on line 59
-[04-Feb-2016 12:18:53 UTC] PHP Fatal error:  Call to a member function get_meta_query() on a non-object in /home/dagnafap/public_html/ishopp/wp-content/themes/iShoppThemeRes/index.php on line 59
-[04-Feb-2016 12:18:58 UTC] PHP Fatal error:  Call to a member function get_meta_query() on a non-object in /home/dagnafap/public_html/ishopp/wp-content/themes/iShoppThemeRes/index.php on line 59
-[04-Feb-2016 12:18:59 UTC] PHP Fatal error:  Call to a member function get_meta_query() on a non-object in /home/dagnafap/public_html/ishopp/wp-content/themes/iShoppThemeRes/index.php on line 59
