@@ -38,7 +38,7 @@
 		<div class="clear"></div>
 		
 		<div class="footer_bottom">
-			© 2014 Interactive Wordpress Theme. Design and Developed by <a href="http://www.dessign.net">Dessign.net</a></div>
+			© 2016 Dagna Music. Design and Developed by <a href="http://wpdvlpr.com">WordPress Website by WPDvlpr</a></div>
 		</div><!--//footer_bottom-->
 		
 	</footer><!--//footer-->
