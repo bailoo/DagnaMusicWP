@@ -51,3 +51,55 @@
 [12-Nov-2015 09:55:42 Etc/GMT] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/mozartsi/public_html/dagnamusic.com/wp-includes/class-feed.php on line 4
 [12-Nov-2015 09:55:42 Etc/GMT] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php): failed to open stream: No such file or directory in /home/mozartsi/public_html/dagnamusic.com/wp-includes/class-feed.php on line 4
 [12-Nov-2015 09:55:42 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/mozartsi/public_html/dagnamusic.com/wp-includes/class-feed.php on line 4
+[13-Feb-2016 00:20:17 Etc/GMT] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/dagnafap/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[13-Feb-2016 00:20:17 Etc/GMT] PHP Fatal error:  Call to undefined function feed_content_type() in /home/dagnafap/public_html/wp-includes/feed-rss2.php on line 8
+[13-Feb-2016 00:20:19 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/script-loader.php on line 25
+[13-Feb-2016 00:20:19 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/script-loader.php on line 25
+[13-Feb-2016 00:20:19 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dagnafap/public_html/wp-includes/script-loader.php on line 25
+[13-Feb-2016 00:20:20 Etc/GMT] PHP Fatal error:  Call to undefined function feed_content_type() in /home/dagnafap/public_html/wp-includes/feed-rdf.php on line 8
+[13-Feb-2016 00:20:20 Etc/GMT] PHP Fatal error:  Class 'IXR_Server' not found in /home/dagnafap/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[13-Feb-2016 00:20:21 Etc/GMT] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/dagnafap/public_html/wp-includes/class.wp-styles.php on line 19
+[13-Feb-2016 00:20:22 Etc/GMT] PHP Fatal error:  Class 'IXR_Client' not found in /home/dagnafap/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[13-Feb-2016 00:20:22 Etc/GMT] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/class-wp-customize-control.php on line 553
+[13-Feb-2016 00:20:22 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dagnafap/public_html/wp-includes/class-wp-customize-control.php on line 553
+[13-Feb-2016 00:20:22 Etc/GMT] PHP Fatal error:  Call to undefined function add_filter() in /home/dagnafap/public_html/wp-includes/class-wp-embed.php on line 28
+[13-Feb-2016 00:20:23 Etc/GMT] PHP Fatal error:  Class 'Walker' not found in /home/dagnafap/public_html/wp-includes/nav-menu-template.php on line 16
+[13-Feb-2016 00:20:24 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/class-simplepie.php on line 5
+[13-Feb-2016 00:20:24 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/class-simplepie.php on line 5
+[13-Feb-2016 00:20:24 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dagnafap/public_html/wp-includes/class-simplepie.php on line 5
+[13-Feb-2016 00:20:25 Etc/GMT] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/ms-settings.php on line 14
+[13-Feb-2016 00:20:25 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dagnafap/public_html/wp-includes/ms-settings.php on line 14
+[13-Feb-2016 00:20:25 Etc/GMT] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/default-widgets.php on line 11
+[13-Feb-2016 00:20:25 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dagnafap/public_html/wp-includes/default-widgets.php on line 11
+[13-Feb-2016 00:20:25 Etc/GMT] PHP Fatal error:  Call to undefined function is_robots() in /home/dagnafap/public_html/wp-includes/template-loader.php on line 28
+[13-Feb-2016 00:20:26 Etc/GMT] PHP Fatal error:  Call to undefined function feed_content_type() in /home/dagnafap/public_html/wp-includes/feed-rss.php on line 8
+[13-Feb-2016 00:20:26 Etc/GMT] PHP Fatal error:  Call to undefined function feed_content_type() in /home/dagnafap/public_html/wp-includes/feed-atom-comments.php on line 8
+[13-Feb-2016 00:20:27 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/dagnafap/public_html/wp-includes/vars.php on line 23
+[13-Feb-2016 00:20:27 Etc/GMT] PHP Fatal error:  Call to undefined function feed_content_type() in /home/dagnafap/public_html/wp-includes/feed-atom.php on line 8
+[13-Feb-2016 00:20:27 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dagnafap/public_html/wp-includes/rss-functions.php on line 8
+[13-Feb-2016 00:20:29 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/compat.php on line 338
+[13-Feb-2016 00:20:29 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/compat.php on line 338
+[13-Feb-2016 00:20:29 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dagnafap/public_html/wp-includes/compat.php on line 338
+[13-Feb-2016 00:20:30 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dagnafap/public_html/wp-includes/rss.php on line 19
+[13-Feb-2016 00:20:32 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dagnafap/public_html/wp-includes/registration.php on line 7
+[13-Feb-2016 00:20:33 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/functions.php on line 8
+[13-Feb-2016 00:20:33 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/functions.php on line 8
+[13-Feb-2016 00:20:33 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dagnafap/public_html/wp-includes/functions.php on line 8
+[13-Feb-2016 00:20:35 Etc/GMT] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/dagnafap/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[13-Feb-2016 00:20:36 Etc/GMT] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-themes-section.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/class-wp-customize-section.php on line 378
+[13-Feb-2016 00:20:36 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-themes-section.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dagnafap/public_html/wp-includes/class-wp-customize-section.php on line 378
+[13-Feb-2016 00:20:37 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/dagnafap/public_html/wp-includes/ms-default-filters.php on line 16
+[13-Feb-2016 00:20:37 Etc/GMT] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/class-feed.php on line 4
+[13-Feb-2016 00:20:37 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dagnafap/public_html/wp-includes/class-feed.php on line 4
+[13-Feb-2016 00:20:37 Etc/GMT] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-filter-setting.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/class-wp-customize-setting.php on line 813
+[13-Feb-2016 00:20:37 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-filter-setting.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dagnafap/public_html/wp-includes/class-wp-customize-setting.php on line 813
+[13-Feb-2016 00:20:38 Etc/GMT] PHP Fatal error:  Call to undefined function feed_content_type() in /home/dagnafap/public_html/wp-includes/feed-rss2-comments.php on line 8
+[13-Feb-2016 00:20:38 Etc/GMT] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/dagnafap/public_html/wp-includes/class.wp-scripts.php on line 19
+[13-Feb-2016 00:20:39 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dagnafap/public_html/wp-includes/class-snoopy.php on line 6
+[13-Feb-2016 00:20:39 Etc/GMT] PHP Fatal error:  Call to undefined function add_filter() in /home/dagnafap/public_html/wp-includes/default-filters.php on line 17
+[13-Feb-2016 00:20:41 Etc/GMT] PHP Fatal error:  Call to undefined function add_shortcode() in /home/dagnafap/public_html/wp-includes/media.php on line 1429
+[13-Feb-2016 00:20:41 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dagnafap/public_html/wp-includes/registration-functions.php on line 7
+[13-Feb-2016 00:20:41 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/dagnafap/public_html/wp-includes/formatting.php on line 4820
+[13-Feb-2016 00:20:41 Etc/GMT] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[13-Feb-2016 00:20:41 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dagnafap/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[13-Feb-2016 02:47:22 Etc/GMT] PHP Fatal error:  Call to undefined function is_main_site() in /home/dagnafap/public_html/wp-includes/update.php on line 668
