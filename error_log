@@ -5,3 +5,9 @@
 [13-Feb-2016 01:57:09 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/dagnafap/public_html/wp-content/plugins/fusion-core/shortcodes.php on line 1906
 [14-Feb-2016 04:14:54 UTC] PHP Fatal error:  Call to undefined function avada_hex2rgb() in /home/dagnafap/public_html/wp-content/plugins/fusion-core/shortcodes.php on line 3242
 [17-Feb-2016 10:16:10 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/dagnafap/public_html/wp-content/plugins/fusion-core/shortcodes.php on line 1906
+[18-Feb-2016 00:06:59 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/dagnafap/public_html/wp-content/plugins/fusion-core/shortcodes.php on line 1906
+[18-Feb-2016 01:13:45 UTC] PHP Fatal error:  Call to undefined function avada_hex2rgb() in /home/dagnafap/public_html/wp-content/plugins/fusion-core/shortcodes.php on line 3242
+[19-Feb-2016 12:29:08 UTC] PHP Fatal error:  Call to undefined function avada_hex2rgb() in /home/dagnafap/public_html/wp-content/plugins/fusion-core/shortcodes.php on line 3242
+[21-Feb-2016 05:35:56 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/dagnafap/public_html/wp-content/plugins/fusion-core/shortcodes.php on line 1906
+[21-Feb-2016 20:09:44 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/dagnafap/public_html/wp-content/plugins/fusion-core/shortcodes.php on line 1906
+[23-Feb-2016 15:37:35 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/dagnafap/public_html/wp-content/plugins/fusion-core/shortcodes.php on line 1906
