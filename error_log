@@ -13,3 +13,4 @@
 [23-Feb-2016 15:37:35 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/dagnafap/public_html/wp-content/plugins/fusion-core/shortcodes.php on line 1906
 [25-Feb-2016 06:33:28 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/dagnafap/public_html/wp-content/plugins/fusion-core/shortcodes.php on line 1906
 [01-Mar-2016 08:36:52 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/dagnafap/public_html/wp-content/plugins/fusion-core/shortcodes.php on line 1906
+[05-Mar-2016 19:21:36 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/dagnafap/public_html/wp-content/plugins/fusion-core/shortcodes.php on line 1906
