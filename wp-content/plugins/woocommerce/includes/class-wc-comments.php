@@ -270,7 +270,6 @@ class WC_Comments {
 			}
 
 			$stats['total_comments'] = $total;
-			$stats['all'] = $total;
 			foreach ( $approved as $key ) {
 				if ( empty( $stats[ $key ] ) ) {
 					$stats[ $key ] = 0;

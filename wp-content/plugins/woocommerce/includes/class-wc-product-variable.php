@@ -510,18 +510,10 @@ class WC_Product_Variable extends WC_Product {
 			$value = wc_clean( $match_attributes[ $attribute_field_name ] );
 
 			$query_args['meta_query'][] = array(
-				'relation' => 'OR',
-				array(
-					'key'     => $attribute_field_name,
-					'value'   => array( '', $value ),
-					'compare' => 'IN'
-				),
-				array(
-					'key'     => $attribute_field_name,
-					'compare' => 'NOT EXISTS'
-				)
+				'key'     => $attribute_field_name,
+				'value'   => array( '', $value ),
+				'compare' => 'IN'
 			);
-
 		}
 
 		$matches = get_posts( $query_args );

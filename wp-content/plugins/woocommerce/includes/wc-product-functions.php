@@ -51,9 +51,7 @@ function wc_update_product_stock( $product_id, $new_stock_level ) {
  */
 function wc_update_product_stock_status( $product_id, $status ) {
 	$product = wc_get_product( $product_id );
-	if ( $product ) {
-		$product->set_stock_status( $status );
-	}
+	$product->set_stock_status( $status );
 }
 
 /**
@@ -641,12 +639,10 @@ function wc_get_product_variation_attributes( $variation_id ) {
 
 	// Compare to parent variable product attributes and ensure they match
 	foreach ( $parent_attributes as $attribute_name => $options ) {
-		if ( ! empty( $options['is_variation'] ) ) {
-			$attribute                 = 'attribute_' . sanitize_title( $attribute_name );
-			$found_parent_attributes[] = $attribute;
-			if ( ! array_key_exists( $attribute, $variation_attributes ) ) {
-				$variation_attributes[ $attribute ] = ''; // Add it - 'any' will be asumed
-			}
+		$attribute                 = 'attribute_' . sanitize_title( $attribute_name );
+		$found_parent_attributes[] = $attribute;
+		if ( ! empty( $options['is_variation'] ) && ! array_key_exists( $attribute, $variation_attributes ) ) {
+			$variation_attributes[ $attribute ] = ''; // Add it - 'any' will be asumed
 		}
 	}
 

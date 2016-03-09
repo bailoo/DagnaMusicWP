@@ -70,9 +70,7 @@ class WC_Admin {
 	 * Include admin files conditionally.
 	 */
 	public function conditional_includes() {
-		if ( ! $screen = get_current_screen() ) {
-			return;
-		}
+		$screen = get_current_screen();
 
 		switch ( $screen->id ) {
 			case 'dashboard' :

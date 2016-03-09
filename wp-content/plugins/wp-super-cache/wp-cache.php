@@ -3,7 +3,7 @@
 Plugin Name: WP Super Cache
 Plugin URI: https://wordpress.org/plugins/wp-super-cache/
 Description: Very fast caching plugin for WordPress.
-Version: 1.4.8
+Version: 1.4.7
 Author: Automattic
 Author URI: https://automattic.com/
 License: GPL2+
@@ -3330,6 +3330,7 @@ function next_preload_message( $hook, $text, $limit = 0 ) {
 			return false;
 		$h = $m = $s = 0;
 		if ( $next_time > 0 ) {
+			// http://bytes.com/topic/php/answers/3917-seconds-converted-hh-mm-ss
 			$m = (int)($next_time / 60);
 			$s = $next_time % 60;
 			$h = (int)($m / 60); $m = $m % 60;

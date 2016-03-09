@@ -669,11 +669,7 @@ function wc_strtolower( $string ) {
  */
 function wc_trim_string( $string, $chars = 200, $suffix = '...' ) {
 	if ( strlen( $string ) > $chars ) {
-		if ( function_exists( 'mb_substr' ) ) {
-			$string = mb_substr( $string, 0, ( $chars - mb_strlen( $suffix ) ) ) . $suffix;
-		} else {
-			$string = substr( $string, 0, ( $chars - strlen( $suffix ) ) ) . $suffix;
-		}
+		$string = substr( $string, 0, ( $chars - strlen( $suffix ) ) ) . $suffix;
 	}
 	return $string;
 }
