@@ -20,11 +20,12 @@ CREATE TABLE `dp_commentmeta` (
   PRIMARY KEY (`meta_id`),
   KEY `comment_id` (`comment_id`),
   KEY `meta_key` (`meta_key`(191))
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 LOCK TABLES `dp_commentmeta` WRITE;
 /*!40000 ALTER TABLE `dp_commentmeta` DISABLE KEYS */;
+INSERT INTO `dp_commentmeta` VALUES (1,4,'_wp_trash_meta_status','0'),(2,4,'_wp_trash_meta_time','1457532698');
 /*!40000 ALTER TABLE `dp_commentmeta` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
