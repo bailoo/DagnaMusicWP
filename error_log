@@ -24,3 +24,4 @@
 [20-Jun-2016 21:06:25 UTC] PHP Warning:  exec(): Unable to fork ['git' '--git-dir=/home/dagnafap/public_html/.git' '--work-tree=/home/dagnafap/public_html' 'rev-parse' '--show-toplevel' 2&gt;&amp;1] in /home/dagnafap/public_html/wp-content/plugins/revisr/classes/class-revisr-git.php on line 113
 [18-Jul-2016 14:10:33 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/dagnafap/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
 [03-Oct-2016 17:38:10 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/dagnafap/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[15-Oct-2016 03:40:22 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/dagnafap/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
