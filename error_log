@@ -25,3 +25,4 @@
 [18-Jul-2016 14:10:33 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/dagnafap/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
 [03-Oct-2016 17:38:10 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/dagnafap/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
 [15-Oct-2016 03:40:22 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/dagnafap/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[30-Oct-2016 21:58:37 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/dagnafap/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
