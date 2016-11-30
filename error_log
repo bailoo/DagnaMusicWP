@@ -3493,3 +3493,4 @@
 [18-Nov-2016 11:23:58 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/dagnafap/public_html/wp-includes/load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dagnafap/public_html/wp-settings.php on line 21
 [18-Nov-2016 11:23:59 Etc/GMT] PHP Warning:  require(/home/dagnafap/public_html/wp-includes/load.php): failed to open stream: Permission denied in /home/dagnafap/public_html/wp-settings.php on line 21
 [18-Nov-2016 11:23:59 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/dagnafap/public_html/wp-includes/load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dagnafap/public_html/wp-settings.php on line 21
+[27-Nov-2016 16:26:26 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/dagnafap/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
