@@ -3494,3 +3494,10 @@
 [18-Nov-2016 11:23:59 Etc/GMT] PHP Warning:  require(/home/dagnafap/public_html/wp-includes/load.php): failed to open stream: Permission denied in /home/dagnafap/public_html/wp-settings.php on line 21
 [18-Nov-2016 11:23:59 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/dagnafap/public_html/wp-includes/load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dagnafap/public_html/wp-settings.php on line 21
 [27-Nov-2016 16:26:26 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/dagnafap/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[16-Dec-2016 08:26:54 UTC] PHP Warning:  Illegal string offset 'page_id' in /home/dagnafap/public_html/wp-content/plugins/egany-facebook-to-wp/egany_facebook_to_wordpress.php on line 654
+[16-Dec-2016 08:26:54 UTC] PHP Warning:  Illegal string offset 'group_id' in /home/dagnafap/public_html/wp-content/plugins/egany-facebook-to-wp/egany_facebook_to_wordpress.php on line 655
+[16-Dec-2016 08:26:56 UTC] PHP Warning:  Illegal string offset 'access_type' in /home/dagnafap/public_html/wp-content/plugins/egany-facebook-to-wp/egany_facebook_to_wordpress.php on line 634
+[16-Dec-2016 08:26:56 UTC] PHP Warning:  Illegal string offset 'access_type' in /home/dagnafap/public_html/wp-content/plugins/egany-facebook-to-wp/egany_facebook_to_wordpress.php on line 638
+[16-Dec-2016 08:26:56 UTC] PHP Warning:  Illegal string offset 'page_id' in /home/dagnafap/public_html/wp-content/plugins/egany-facebook-to-wp/egany_facebook_to_wordpress.php on line 654
+[16-Dec-2016 08:26:56 UTC] PHP Warning:  Illegal string offset 'group_id' in /home/dagnafap/public_html/wp-content/plugins/egany-facebook-to-wp/egany_facebook_to_wordpress.php on line 655
+[16-Dec-2016 08:26:56 UTC] PHP Warning:  Illegal string offset 'comment_max' in /home/dagnafap/public_html/wp-content/plugins/egany-facebook-to-wp/egany_facebook_to_wordpress.php on line 578
