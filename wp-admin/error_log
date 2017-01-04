@@ -10,3 +10,4 @@
 [20-Jun-2016 21:06:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dagnafap/public_html/wp-content/plugins/revisr/classes/class-revisr-git.php:113) in /home/dagnafap/public_html/wp-admin/async-upload.php on line 35
 [20-Jun-2016 21:06:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dagnafap/public_html/wp-content/plugins/revisr/classes/class-revisr-git.php:113) in /home/dagnafap/public_html/wp-admin/async-upload.php on line 35
 [20-Jun-2016 21:06:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dagnafap/public_html/wp-content/plugins/revisr/classes/class-revisr-git.php:113) in /home/dagnafap/public_html/wp-admin/async-upload.php on line 35
+[03-Jan-2017 19:41:57 Etc/GMT] PHP Fatal error:  Call to undefined function __() in /home/dagnafap/public_html/wp-admin/menu.php on line 23

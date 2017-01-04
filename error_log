@@ -3502,3 +3502,4 @@
 [16-Dec-2016 08:26:56 UTC] PHP Warning:  Illegal string offset 'group_id' in /home/dagnafap/public_html/wp-content/plugins/egany-facebook-to-wp/egany_facebook_to_wordpress.php on line 655
 [16-Dec-2016 08:26:56 UTC] PHP Warning:  Illegal string offset 'comment_max' in /home/dagnafap/public_html/wp-content/plugins/egany-facebook-to-wp/egany_facebook_to_wordpress.php on line 578
 [27-Dec-2016 09:32:30 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/dagnafap/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[02-Jan-2017 03:03:56 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/dagnafap/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580

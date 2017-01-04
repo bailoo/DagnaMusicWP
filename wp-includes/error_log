@@ -103,3 +103,7 @@
 [13-Feb-2016 00:20:41 Etc/GMT] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/class-wp-customize-panel.php on line 388
 [13-Feb-2016 00:20:41 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dagnafap/public_html/wp-includes/class-wp-customize-panel.php on line 388
 [13-Feb-2016 02:47:22 Etc/GMT] PHP Fatal error:  Call to undefined function is_main_site() in /home/dagnafap/public_html/wp-includes/update.php on line 668
+[03-Jan-2017 13:51:54 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dagnafap/public_html/wp-includes/registration-functions.php on line 7
+[03-Jan-2017 20:01:28 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/functions.php on line 8
+[03-Jan-2017 20:01:28 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/dagnafap/public_html/wp-includes/functions.php on line 8
+[03-Jan-2017 20:01:28 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dagnafap/public_html/wp-includes/functions.php on line 8
